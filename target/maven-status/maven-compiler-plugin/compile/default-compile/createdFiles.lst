@@ -1,0 +1,10 @@
+streaming\soapservice\controllers\exceptions\PreexistingEntityException.class
+streaming\soapservice\models\Movies.class
+streaming\soapservice\resources\JavaEE8Resource.class
+streaming\soapservice\controllers\exceptions\NonexistentEntityException.class
+streaming\soapservice\controllers\MoviesJpaController.class
+streaming\soapservice\models\Movies_.class
+streaming\soapservice\controllers\exceptions\IllegalOrphanException.class
+streaming\soapservice\handlers\Handler.class
+streaming\soapservice\JAXRSConfiguration.class
+streaming\soapservice\services\MovieStreamService.class
